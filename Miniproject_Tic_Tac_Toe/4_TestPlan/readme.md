@@ -9,4 +9,3 @@
 |------|------|------|------|------|
 | LLT_1 |Update player statistics after a completed game | SUCCESS | SUCCESS | PASS 
 | LLT_ 2 | The game control switches to the next player after each turn. | SUCCESS | SUCCESS |  PASS
-
