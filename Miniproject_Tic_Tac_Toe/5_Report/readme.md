@@ -50,4 +50,5 @@ around 20 seconds or less.
 
 ## STRUCTURAL DIAGRAM
 
-![image](https://user-images.githubusercontent.com/74059740/143386263-25cc2b8e-bafa-4233-b6c6-d2d9a25ab091.png)
+![image](https://user-images.githubusercontent.com/74059740/143386578-36614eb6-c3ef-41e1-a239-96bb4ca4599c.png)
+
