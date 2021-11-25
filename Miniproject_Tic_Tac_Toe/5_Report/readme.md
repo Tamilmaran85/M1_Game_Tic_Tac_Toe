@@ -55,3 +55,5 @@ around 20 seconds or less.
 ## BEHAVIOURAL DIAGRAM
 
 ![image](https://user-images.githubusercontent.com/74059740/143386696-e7f0bf51-b9e4-4075-95b2-0406c34dae99.png)
+
+![image](https://user-images.githubusercontent.com/74059740/143386815-2d00d171-55eb-4358-88b4-c55dfeb09361.png)
