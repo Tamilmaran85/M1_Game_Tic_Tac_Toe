@@ -10,7 +10,7 @@ LDFLAGS =
 # Makefile settings - Can be customized.
 APPNAME = Tic_Tac_Toe
 EXT = .c
-SRCDIR = src
+SRCDIR = Src
 OBJDIR = obj
 
 ############## Do not change anything from here downwards! #############
