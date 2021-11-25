@@ -4,4 +4,4 @@
 
 ## CODE GRADE
 
-![Codiga Badge](https://api.codiga.io/project/29951/score/svg)
+![](https://api.codiga.io/project/29951/score/svg)
