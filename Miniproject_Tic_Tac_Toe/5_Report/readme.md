@@ -48,3 +48,6 @@ loading time should be taken into close consideration because users wouldn’t w
 forever to load the application, we at least can match the average mobile app loading time of
 around 20 seconds or less.
 
+## STRURAL DIAGRAM
+
+![image](https://user-images.githubusercontent.com/74059740/143386263-25cc2b8e-bafa-4233-b6c6-d2d9a25ab091.png)
