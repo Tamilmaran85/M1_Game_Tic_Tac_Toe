@@ -1,11 +1,11 @@
 ## TITLE : TIC TAC TOE
 
-## DESCRIPTION : 
+## DESCRIPTION 
 The game of Tic Tac Toe is often the first paper-and-pencil game played by small children. It introduces the basic elements of a two-player game, with a small set of easy rules, clear objectives, and clearly identified turns. However, once Tic Tac Toe is mastered, it becomes quickly apparent that every game should result in a draw; that is, there is a clear winning strategy for the first player every time. Because of its simplicity, Tic Tac Toe is often overlooked as a potential area for gaming.
 
-## IDENTIYFING REQUIREMENTS :
+## IDENTIYFING REQUIREMENTS
 
-## 4 W AND 1 H :
+## 4 W AND 1 H
 
 Mobile flash games(Android,Ios), Pc flash games, easy access to applications, security
 
@@ -29,15 +29,15 @@ The Tic Tac Toe rules can be tweaked around a little bit to make the game simple
 
 There are some other similar application like this.
 
-## LOW LEVEL REQUIRMENTS : 
+## LOW LEVEL REQUIRMENTS
 
 Memory: 1 MB. =>Graphics Card: ATI FireGL T2-128. =>CPU: Intel Atom Z510. =>File Size: 200 MB. =>OS: Windows 7 or Greater. RAM: =>512 MB.
 
-## FUNCTIONAL REQUIREMENTS : 
+## FUNCTIONAL REQUIREMENTS
 
 The most important functional requirement is the UI where the user interacts with the application at all times while running the application. Other major functional requirements would be to make sure the user’s data is linked with their progress because differentiating between the users when handling large databases is critical, and also making sure that the AI that plays with the user is configured well with the difficulty level that has been chosen. The player must also be able to create tournaments on their own and where other people with similar game progress would be able to join—making sure there is an even distribution of players according to their level so the game doesn't become biased. The leaderboard is a crucial part of the gameplay too because that will keep the players motivated and interested in the game while trying to make their way up the leaderboard.
 
-## NON FUNCTIONAL REQUIREMENTS : 
+## NON FUNCTIONAL REQUIREMENTS 
 
 Non-functional requirements include, but are not limited to the
 database capacity and speed. We are estimating a user base to be around 67 million users, as this
